@@ -1,2 +1,15 @@
-# tech-docs
-This repository contains examples of technical documentation I've prepared for educational or demonstration purposes. These works demonstrate my approach to structuring information, presentation style, and formatting technical materials.
+# 📚 Техническая документация | Портфолио
+
+Добро пожаловать в моё портфолио технической документации.  
+Здесь собраны примеры работ, демонстрирующие мои навыки в создании структурированной, понятной и полезной технической прозы.
+
+---
+
+## 📬 Контакты
+
+- **Email:** scorpion.lk@example.com
+- **GitHub:** [github.com/ScorpionLF](https://github.com/ScorpionLF)
+
+---
+
+> 💡 *Это портфолио обновляется по мере появления новых материалов. Если вы ищете конкретный тип документации и не нашли его — напишите, и я покажу пример отдельно.*
