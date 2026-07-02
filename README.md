@@ -7,7 +7,7 @@
 
 ## 📬 Контакты
 
-- **Email:** scorpion.lk@example.com
+- **Email:** scorpion.lk@mail.ru
 - **GitHub:** [github.com/ScorpionLF](https://github.com/ScorpionLF)
 
 ---
